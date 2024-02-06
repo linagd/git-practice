@@ -1,0 +1,19 @@
+/***** BASE STYLES *****/
+
+.lina-advice h1 {
+    font-family: 'Montserrat Alternates', sans-serif;
+    color: seagreen;
+    text-align: center;
+}
+
+.advice h4 {
+    font-family: 'Montserrat', sans-serif;
+    font-variant: small-caps;
+    background-color: seagreen;
+    color: antiquewhite
+}
+
+.advice {
+    padding-left: 30px;
+    padding-right: 30px;
+}
